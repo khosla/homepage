@@ -1,0 +1,20 @@
+- name: Ngan Thi Dong
+  nickname: Ngan
+  website: 
+  description: Precision Medicine
+  image: assets/img/ngan.jpeg
+
+- name: Olatunji Iyiola Emmanuel
+  nickname: Emmanuel
+  website: https://iyempissy.github.io/
+  image: assets/img/emmanuel.png
+
+- name: Xue Yuan
+  nickname: Yuan
+  website: 
+  image: assets/img/yuan.jpg
+
+- name: Tianqi Zhao
+  nickname: Tianqi
+  website: https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/tianqi-zhao
+  image: assets/img/tianqi.jpg
